@@ -38,3 +38,6 @@ node_modules
 
 # typings
 typings
+
+# output folder (not used as currently running directly using jspm)
+dist

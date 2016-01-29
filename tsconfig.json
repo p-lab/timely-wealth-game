@@ -1,6 +1,10 @@
 {
   "compilerOptions": {
-    "module": "commonjs"
+    "module": "commonjs",
+    "newLine": "LF",
+    "noImplicitAny": false,
+    "outDir": "dist",
+    "sourceMap": true
   },
   "filesGlob": [
     "lib/**",
