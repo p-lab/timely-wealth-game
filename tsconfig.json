@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
+    "module": "system",
+    "moduleResolution": "node",
     "newLine": "LF",
     "noImplicitAny": false,
     "outDir": "dist",
