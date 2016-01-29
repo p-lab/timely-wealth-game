@@ -9,6 +9,7 @@ System.config({
     "github:*": "jspm_packages/github/*",
     "npm:*": "jspm_packages/npm/*"
   },
+  globalEvaluationScope: false,
 
   packages: {
     "lib": {
@@ -25,8 +26,8 @@ System.config({
   map: {
     "domready": "npm:domready@1.0.8",
     "lodash": "npm:lodash@4.0.1",
-    "ts": "github:frankwallis/plugin-typescript@2.5.3",
-    "github:frankwallis/plugin-typescript@2.5.3": {
+    "ts": "github:frankwallis/plugin-typescript@2.5.5",
+    "github:frankwallis/plugin-typescript@2.5.5": {
       "typescript": "npm:typescript@1.8.0"
     },
     "github:jspm/nodelibs-assert@0.1.0": {

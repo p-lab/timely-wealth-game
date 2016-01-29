@@ -27,7 +27,7 @@
       "lodash": "npm:lodash@^4.0.1"
     },
     "devDependencies": {
-      "ts": "github:frankwallis/plugin-typescript@2.5.3"
+      "ts": "github:frankwallis/plugin-typescript@^2.5.5"
     }
   },
   "devDependencies": {
