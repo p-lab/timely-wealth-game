@@ -4,6 +4,7 @@
     "module": "commonjs"
   },
   "exclude": [
+    "typings/browser",
     "typings/browser.d.ts"
   ]
 }
