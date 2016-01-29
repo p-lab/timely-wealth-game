@@ -30,10 +30,8 @@
       "ts": "github:frankwallis/plugin-typescript@^2.5.5"
     }
   },
-  "devDependencies": {
-    "jspm": "^0.16.25"
-  },
   "dependencies": {
+    "jspm": "^0.16.25",
     "http-server": "^0.8.5",
     "launchpad": "^0.5.1"
   }
