@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "commonjs"
+  },
+  "filesGlob": [
+    "lib/**",
+    "spec/**",
+    "typings/main.d.ts"
+  ],
+  "atom": {
+    "rewriteTsconfig": true
+  },
+  "files": [
+    "lib/App.ts",
+    "lib/bootstrap.ts",
+    "lib/Games.ts",
+    "lib/Gameboard.ts",
+    "typings/main.d.ts"
+  ]
+}

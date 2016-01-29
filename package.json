@@ -1,0 +1,40 @@
+{
+  "name": "timely-wealth-game",
+  "version": "0.0.1",
+  "description": "Timely Wealth Game",
+  "main": "run.js",
+  "scripts": {
+    "start": "node run.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolcodeexamples/timely-wealth-game.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "unional",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coolcodeexamples/timely-wealth-game/issues"
+  },
+  "homepage": "https://github.com/coolcodeexamples/timely-wealth-game#readme",
+  "jspm": {
+    "configFile": "jspm.config.js",
+    "dependencies": {
+      "domready": "npm:domready@^1.0.8",
+      "lodash": "npm:lodash@^4.0.1"
+    },
+    "devDependencies": {
+      "ts": "github:frankwallis/plugin-typescript@2.5.3"
+    }
+  },
+  "devDependencies": {
+    "jspm": "^0.16.25"
+  },
+  "dependencies": {
+    "http-server": "^0.8.5",
+    "launchpad": "^0.5.1"
+  }
+}

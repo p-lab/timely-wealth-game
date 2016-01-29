@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "domready": "github:unional/typed-domready#881449d638c89897b1e70172ab5413b8886b4ef9",
+    "http-server": "github:unional/typed-http-server#c3fe8aff9f9d87b1db6a30f8df6ff4b56e052150"
+  }
+}
