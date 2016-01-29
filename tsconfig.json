@@ -13,7 +13,7 @@
   "files": [
     "lib/App.ts",
     "lib/bootstrap.ts",
-    "lib/Games.ts",
+    "lib/Game.ts",
     "lib/Gameboard.ts",
     "typings/main.d.ts"
   ]

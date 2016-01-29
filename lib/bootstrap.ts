@@ -1,11 +1,10 @@
-// import dr from 'domready';
+import dr from 'domready';
 
-// import {App} from './App.ts';
+import {App} from './App.ts';
 
 
-// var app = new App();
+var app = new App();
 
-// dr(() => {
-//     app.start();
-// });
-console.log('asdfdsaf');
+dr(() => {
+    app.start();
+});
