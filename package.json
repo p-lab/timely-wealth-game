@@ -34,5 +34,12 @@
     "jspm": "^0.16.25",
     "http-server": "^0.8.5",
     "launchpad": "^0.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "eslint-config-unional": "^0.1.6",
+    "gulp": "^3.9.0",
+    "gulp-replace": "^0.5.4",
+    "require-dir": "^0.3.0"
   }
 }

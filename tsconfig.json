@@ -10,7 +10,7 @@
   "filesGlob": [
     "lib/**",
     "spec/**",
-    "typings/main.d.ts"
+    "typings/browser.d.ts"
   ],
   "atom": {
     "rewriteTsconfig": true
@@ -20,6 +20,6 @@
     "lib/bootstrap.ts",
     "lib/Game.ts",
     "lib/Gameboard.ts",
-    "typings/main.d.ts"
+    "typings/browser.d.ts"
   ]
 }
