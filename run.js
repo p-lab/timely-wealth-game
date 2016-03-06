@@ -1,5 +1,7 @@
-var createServer = require('http-server').createServer;
+var httpServer = require('http-server');
 var launch = require('launchpad');
+
+var createServer = httpServer.createServer;
 
 var server = createServer({
   root: __dirname,

@@ -1,4 +1,4 @@
-import dr from 'domready';
+import dr = require('domready');
 
 import {App} from './App.ts';
 
